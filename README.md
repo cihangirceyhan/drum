@@ -1,9 +1,8 @@
 # javascript101-drum
-Technologies used
 
 
--- Javascript
+### Technologies used
 
--- HTML
-
--- CSS
+- **Javascript**
+- **HTML**
+- **CSS**
